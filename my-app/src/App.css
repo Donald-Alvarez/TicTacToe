@@ -54,11 +54,12 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: aliceblue;
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #e4b2b6;
+  border: 1px solid #000000;
   float: left;
   font-size: 24px;
   font-weight: bold;
@@ -83,6 +84,7 @@ body {
 .game {
   display: flex;
   flex-direction: row;
+  color: blue;
 }
 
 .game-info {
